@@ -1,2 +1,2 @@
 # pattern_program
-Using Javaa
+Using Java
